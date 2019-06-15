@@ -1,0 +1,14 @@
+{
+  "name": "p2p-rtc",
+  "version": "1.0.0",
+  "description": "WebRTC with manual signalling to avoid having a central server",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Technohacker",
+  "license": "MIT",
+  "dependencies": {
+    "materialize-css": "^1.0.0"
+  }
+}
